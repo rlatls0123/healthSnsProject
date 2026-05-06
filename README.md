@@ -25,17 +25,14 @@
 
 
 ## 🛠 Tech Stack
-* **Backend**
-Language: Java 17
-
 
 
 | 분류 | 기술 |
 | :--- | :--- |
-| **Frontend** | google Gemini 사용 |
-| **Backend** | Language: Java 17 , Spring Boot 4.0.3 , Spring Data JPA |
-| **Database** | MySQL 8.0 |
-  | **Infrastructure** | AWS EC2 |
+| **Frontend** | Android Studio, Java 17 |
+| **Backend** |  Firebase  |
+| **Database** |  Firebase  |
+
 
 
 ## 🚀프로젝트 이미지 ##
