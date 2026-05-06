@@ -1,4 +1,4 @@
-# 🚀 프로젝트 이름 (toyProject)
+# 🚀 프로젝트 이름 (healthSnsProject)
 >"파편화된 건강관리 기능을 통합하여 운동과 식단을 동시에 기록·관리할 수 있는 효율적인 CRUD 기반 웹/앱 서비스를 개발했습니다."
 
 ## 📋 목차 (Table of Contents)
